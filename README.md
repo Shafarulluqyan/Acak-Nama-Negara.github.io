@@ -12,7 +12,6 @@ Welcome to the Country Name Shuffle Game, where geographical knowledge meets bra
 ## Features 🌟
 
 - **Scrambled Fun**: Enjoy the thrill of unscrambling country names with varying difficulty.
-- **Responsive Design**: Play seamlessly on any device for a consistent gaming experience.
 - **Leaderboard**: Track your scores and compete with friends for the ultimate brainiac title.
 - **Educational Twist**: Enhance your geography knowledge while having fun.
 
@@ -27,13 +26,12 @@ Welcome to the Country Name Shuffle Game, where geographical knowledge meets bra
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/country-name-shuffle.git
+   git clone https://github.com/Shafarulluqyan/Acak-Nama-Negara.github.io.git
    ```
 
 2. **Open the Game Arena**:
 
    ```bash
-   cd country-name-shuffle
    open index.html
    ```
 
